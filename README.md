@@ -1,2 +1,2 @@
-# My_CV
-This repository will host my CV
+# My CV
+This repository hosts my CV which can be accessed by selecting the document 'Julia Panczyszyn - CV'
